@@ -26,6 +26,7 @@ config.py
 
 #large file
 chest_xray/
+models/
 
 # Distribution / packaging
 .Python
