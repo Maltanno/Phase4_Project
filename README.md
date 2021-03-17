@@ -16,9 +16,9 @@ In this project I'll create Neural Networks to classify whether an X-Ray image i
  - visualise layers within the model
  
 ### Data:
-![data split slide](https://github.com/Maltanno/Phase4_Project/blob/wip/pics/data_split.png)
+![data split slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/Results.png)
 
-![XRay slide](https://github.com/Maltanno/Phase4_Project/blob/wip/pics/X-Rays.png)
+![XRay slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/X-Rays.png)
 
 ### Baseline Model:
 #### Results:     
@@ -46,8 +46,8 @@ With fine tuning gave the best results I used this for my final model -with a tw
 ## Final Model
 I wanted to optimise my final model for recall to minimise the number of people with undetected pneumonia.   
 To do this I took the probabilities predicted by the model and classified anything predicted with more than 5% chance of having pneumonia as having it.       
-![Results slide](https://github.com/Maltanno/Phase4_Project/blob/wip/pics/Results.png)
+![Results slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/Results.png)
 
 ### Feature Maps
 For interest I then looked at some of the feature maps:    
-![Feature map slide](https://github.com/Maltanno/Phase4_Project/blob/wip/pics/feature_maps.png)
+![Feature map slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/feature_maps.png)
