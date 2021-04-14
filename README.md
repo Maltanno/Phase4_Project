@@ -16,7 +16,7 @@ In this project I'll create Neural Networks to classify whether an X-Ray image i
  - visualise layers within the model
  
 ### Data:
-![data split slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/Results.png)
+![data split slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/data_split.png)
 
 ![XRay slide](https://github.com/Maltanno/Phase4_Project/blob/main/pics/X-Rays.png)
 
